@@ -21,7 +21,7 @@ If using `NAACL_SRW_2016.csv` please cite using:
 }
 ~~~
 
-If using `NLP_CSS_2016.csv` please cite using:
+If using `NLP+CSS_2016.csv` please cite using:
 
 ~~~
 @InProceedings{waseem:2016:NLPandCSS,
